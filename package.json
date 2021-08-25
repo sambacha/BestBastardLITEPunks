@@ -1,0 +1,10 @@
+{
+  "name": "bestbastardganpunks",
+  "version": "0.0.0",
+  "description": "BestBastardGANPunks",
+  "main": "index.html",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "license": "MIT"
+}
